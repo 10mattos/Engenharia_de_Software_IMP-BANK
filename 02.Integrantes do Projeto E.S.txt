@@ -1,0 +1,14 @@
+Integrantes do Projeto			
+			
+Cliente:  IMP-BANK			
+Contato: impbank.diretoria@contato.com.br			
+			
+Equipe de Desenvolvimento			
+Nome completo			RA		E-mail							Celular
+Thais Teixeira palma		2301876		thais.palma@aluno.faculdadeimpacta .com.br		(11) 985873724
+Pedro Henrique Alves Cardoso	2301801		pedro.acardoso@aluno.faculdadeimpacta.com.br		(11) 950263883
+Kauan Bulgaroni Silva		2202097		kauan.bulgaroni@aluno.faculdadeimpacta.com.br		(11) 959197293
+Leonardo Silva Matto		2301505		leonardo.mattos@aluno.faculdadeimpacta.com.br		(11) 939490491
+Andson Eloi Da Silva 		2301714		andson.silva@aluno.faculdadeimpacta.com.br		(11) 964388729
+			
+			
