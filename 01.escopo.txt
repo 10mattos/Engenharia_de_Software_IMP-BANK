@@ -1,0 +1,28 @@
+1ª Escopo
+Desenvolver um sistema que permita ao usuario intermediar pedidos de documentos digitais, por meio de upload de arquivos em ambientes externos ao do usuario contrante. 
+A solução deverá ser desitnada ao uso B2C, para processos que exijam troca de documentos entre instituições e cliente e vice e versa. 
+Deverá ser desenvolvido em linguagem que facilite integrações e customizações. 
+Justificativa:
+A partir de uma analise de mercado realizada, foi constatada uma carencia que facilite o envio de documentos em formato digital.
+
+2º Integrantes do Projeto
+Andson Eloi da Silva 
+Leonardo Mattos
+Kauan Bulgaroni Silva
+Pedro Henrique Alves Cardoso
+Thais Teixeira Palma
+
+3º Regras de comunicação.
+Montar uma tabela com o nome e as datas que irão ocorrer as reuniões.
+ex: 1º reunião com todos os envolvidos;
+reunião semanal com a equipe do projeto
+reunião a cada 15 dias com executivos.
+ultima reunião de apresentação com a área dona do projeto.
+encerramento report de conclusão do projeto. 
+
+4º Glossário
+
+5º Referências
+
+
+
